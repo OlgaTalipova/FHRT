@@ -1,0 +1,133 @@
+<script>
+                $(document).ready(function () {
+                    var map = L.map('palaceMap', {gestureHandling: true}).setView(["55.46", "51.15"], 7);
+                    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                    }).addTo(map);
+
+                    var fg = L.featureGroup().addTo(map);
+                                                                var marker = L.marker(["56.50446", "52.98396"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace8">ЛД «Спутник»</a></strong>,<br>г. Агрыз, ул. Карла Маркса  д. 103б')
+                        .bindTooltip('ЛД «Спутник» г. Агрыз');
+                                                                                        var marker = L.marker(["54.85797", "53.08904"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace9">Ледовый дворец спорта «Алтын алка»</a></strong>,<br>г. Азнакаево, ул. М. Султангалиева, 21а')
+                        .bindTooltip('Ледовый дворец спорта «Алтын алка» г. Азнакаево');
+                                                                                        var marker = L.marker(["55.70391", "54.06194"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace10">МУ Ледовый дворец спорта «Лачын»</a></strong>,<br>с. Актаныш, ул.Аэропортовская д. 2А')
+                        .bindTooltip('МУ Ледовый дворец спорта «Лачын» с. Актаныш');
+                                                                                        var marker = L.marker(["54.9066", "52.29435"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace11">Ледовый стадион «Нефтяник»</a></strong>,<br>г. Альметьевск, ул. Белоглазова, 60А')
+                        .bindTooltip('Ледовый стадион «Нефтяник» г. Альметьевск');
+                                                                                        var marker = L.marker(["54.90651", "52.29111"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace12">ДС «Юбилейный»</a></strong>,<br>г. Альметьевск, ул. Белоглазова, 60')
+                        .bindTooltip('ДС «Юбилейный» г. Альметьевск');
+                                                                                        var marker = L.marker(["55.2004", "48.51176"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace13">ЛДС «Алтын Алка»</a></strong>,<br>пгт. Апастово, ул. Красноармейская, д. 65 В')
+                        .bindTooltip('ЛДС «Алтын Алка» пгт. Апастово');
+                                                                                        var marker = L.marker(["56.0966", "49.85892"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace14">ЛДС «Арча Арена»</a></strong>,<br>г. Арск, ул. Сибирский тракт дом 14 А')
+                        .bindTooltip('ЛДС «Арча Арена» г. Арск');
+                                                                                        var marker = L.marker(["54.3954", "53.24218"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace15">ЛДС «Девон»</a></strong>,<br>г. Бавлы, ул. С.Сайдашева д. 8.')
+                        .bindTooltip('ЛДС «Девон» г. Бавлы');
+                                                                                        var marker = L.marker(["56.03721", "50.69979"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace16">Спортивный комплекс «Нарат»</a></strong>,<br>пгт. Богатые Сабы, ул. Автозаправочная 1, пос. Лесхоз')
+                        .bindTooltip('Спортивный комплекс «Нарат» пгт. Богатые Сабы');
+                                                                                        var marker = L.marker(["54.53934", "52.80135"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace17">Ледовый дворец</a></strong>,<br>г. Бугульма, ул. Мусы Джалиля, д. 1')
+                        .bindTooltip('Ледовый дворец г. Бугульма');
+                                                                                        var marker = L.marker(["54.97302", "48.29066"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace18">ЛДС «Арктика»</a></strong>,<br>г. Буинск, ул. Ефремова д.128')
+                        .bindTooltip('ЛДС «Арктика» г. Буинск');
+                                                                                        var marker = L.marker(["55.92377", "49.30349"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace19">ЛДС «Биектау»</a></strong>,<br>с. Высокая гора, ул. Центральная, д.1Б')
+                        .bindTooltip('ЛДС «Биектау» с. Высокая гора');
+                                                                                        var marker = L.marker(["55.02318", "52.74426"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace20">Центр детского хоккея, ледовый дворец спорта</a></strong>,<br>пгт. Джалиль, ул. Лесная, 12')
+                        .bindTooltip('Центр детского хоккея, ледовый дворец спорта пгт. Джалиль');
+                                                                                        var marker = L.marker(["55.76308", "52.00634"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace21">Ледовый Дворец</a></strong>,<br>г. Елабуга, ул. Тази Гиззата, 27')
+                        .bindTooltip('Ледовый Дворец г. Елабуга');
+                                                                                        var marker = L.marker(["55.29313", "51.99314"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace22">ЛДС «Яшьлек»</a></strong>,<br>г. Заинск, пр.Победы, д.36')
+                        .bindTooltip('ЛДС «Яшьлек» г. Заинск');
+                                                                                        var marker = L.marker(["55.86451", "48.56142"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace23">ЛДС «Ледокол»</a></strong>,<br>г. Зеленодольск, ул. Проспект Строителей д. 21')
+                        .bindTooltip('ЛДС «Ледокол» г. Зеленодольск');
+                                                                                        var marker = L.marker(["55.83998", "49.15537"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace1">Ледовый дворец спорта «Золотая Шайба»</a></strong>,<br>г. Казань, ул. Гаврилова, д 48а')
+                        .bindTooltip('Ледовый дворец спорта «Золотая Шайба» г. Казань');
+                                                                                        var marker = L.marker(["55.87495", "49.01481"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace2">МУ «Спортивно-оздоровительный комплекс «Форвард»</a></strong>,<br>г. Казань, ул. Химиков, д.40')
+                        .bindTooltip('МУ «Спортивно-оздоровительный комплекс «Форвард» г. Казань');
+                                                                                        var marker = L.marker(["55.85678", "49.09248"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace3">МУ «Спортивно-оздоровительный комплекс «Триумф»</a></strong>,<br>г. Казань, ул. Олега Кошевого д.17')
+                        .bindTooltip('МУ «Спортивно-оздоровительный комплекс «Триумф» г. Казань');
+                                                                                        var marker = L.marker(["55.8334", "49.10843"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace4">МУ Спортивно-оздоровительный комплекс «Ватан»</a></strong>,<br>г. Казань, ул. Чуйкова, д 8 г.')
+                        .bindTooltip('МУ Спортивно-оздоровительный комплекс «Ватан» г. Казань');
+                                                                                        var marker = L.marker(["55.81491", "49.05413"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace5">ЛДС «Баско»</a></strong>,<br>г. Казань, ул. Халтурина д.3')
+                        .bindTooltip('ЛДС «Баско» г. Казань');
+                                                                                        var marker = L.marker(["55.78406", "49.23147"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace6">ЛДС «Ак Буре»</a></strong>,<br>г. Казань, ул. Вагапова д.17')
+                        .bindTooltip('ЛДС «Ак Буре» г. Казань');
+                                                                                        var marker = L.marker(["55.75168", "49.19143"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace7">МОУ ДОД ДЮСШ «Зилант»</a></strong>,<br>г. Казань, ул. Хусаина Мавлютова д.17в')
+                        .bindTooltip('МОУ ДОД ДЮСШ «Зилант» г. Казань');
+                                                                                        var marker = L.marker(["55.4315", "51.42102"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace24">ЛДС «Олимпия»</a></strong>,<br>пгт. Камские Поляны, ул. Садовая д.14')
+                        .bindTooltip('ЛДС «Олимпия» пгт. Камские Поляны');
+                                                                                        var marker = L.marker(["56.18372", "50.90225"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace25">ЛДС «ОЛИМП»</a></strong>,<br>г. Кукмор, ул.Ленина, д.37Б')
+                        .bindTooltip('ЛДС «ОЛИМП» г. Кукмор');
+                                                                                        var marker = L.marker(["54.60711", "52.43616"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace26">МУ «ЛДС»</a></strong>,<br>г. Лениногорск, ул. Лыжная д. 22')
+                        .bindTooltip('МУ «ЛДС» г. Лениногорск');
+                                                                                        var marker = L.marker(["55.71041", "51.37883"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace27">ЛДС «Олимп»</a></strong>,<br>г. Мамадыш, ул. Мира, д.15 б.')
+                        .bindTooltip('ЛДС «Олимп» г. Мамадыш');
+                                                                                        var marker = L.marker(["55.88209", "52.30284"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace28">ЛДС «Айсберг»</a></strong>,<br>г. Менделеевск, ул. Татарстана, д. 1Б')
+                        .bindTooltip('ЛДС «Айсберг» г. Менделеевск');
+                                                                                        var marker = L.marker(["55.73179", "53.11885"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace29">ЛДС «Юность»</a></strong>,<br>г. Мензелинск, ул. Изыскателей, д. 4/1')
+                        .bindTooltip('ЛДС «Юность» г. Мензелинск');
+                                                                                        var marker = L.marker(["55.75396", "52.41373"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace30">Ледовый Дворец Спорта</a></strong>,<br>г. Набережные Челны, пр. Сююмбике, д. 44')
+                        .bindTooltip('Ледовый Дворец Спорта г. Набережные Челны');
+                                                                                        var marker = L.marker(["55.63218", "51.80065"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace31">Малый ледовый дворец «Нефтехимик»</a></strong>,<br>г. Нижнекамск, ул.30 лет Победы,8а')
+                        .bindTooltip('Малый ледовый дворец «Нефтехимик» г. Нижнекамск');
+                                                                                        var marker = L.marker(["54.4265", "50.7987"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace32">МУ ЛДС «Ледок»</a></strong>,<br>г. Нурлат, ул. Гиматдинова, д. 97')
+                        .bindTooltip('МУ ЛДС «Ледок» г. Нурлат');
+                                                                                        var marker = L.marker(["55.76152", "49.64757"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace33">ЛДС «Пестрецы – Арена»</a></strong>,<br>с. Пестрецы, ул.Казанская, д.13а')
+                        .bindTooltip('ЛДС «Пестрецы – Арена» с. Пестрецы');
+                                                                                        var marker = L.marker(["54.65813", "51.52065"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace34">ЛДС «Юбилейный»</a></strong>,<br>с. Черемшан, ул. Техническая, д. 1а')
+                        .bindTooltip('ЛДС «Юбилейный» с. Черемшан');
+                                                                                        var marker = L.marker(["55.38029", "50.67813"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace35">ЛДС «Чистополь»</a></strong>,<br>г. Чистополь, ул. Вотякова, д.23')
+                        .bindTooltip('ЛДС «Чистополь» г. Чистополь');
+                                                                                        var marker = L.marker(["55°53′5″N, 50°14′19″E", "55.884636, 50.238633"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace36">Тюлячи-арена</a></strong>,<br>с. Тюлячи, РТ.,  Тюлячинский район, с.Тюлячи, ул. Олимпийская , д.1')
+                        .bindTooltip('Тюлячи-арена с. Тюлячи');
+                                                                                        var marker = L.marker(["55.469944", "50.168241"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace37">Слобода-Арена</a></strong>,<br>пгт. Рыбная Слобода, Рыбно-Слободский муниципальный район, пгт Рыбная Слобода, ул. Сююмбике, д. 20А')
+                        .bindTooltip('Слобода-Арена пгт. Рыбная Слобода');
+                                                                                        var marker = L.marker(["55.415089", "49.539465"]).addTo(fg)
+                        .bindPopup('<strong><a href="#palace38">Лаишево Арена</a></strong>,<br>г. Лаишево, г. Лаишево ул. Есенина д.2')
+                        .bindTooltip('Лаишево Арена г. Лаишево');
+                                            
+                    map.fitBounds(fg.getBounds());
+
+                    map.addControl(new L.Control.Fullscreen({
+                        title: {
+                            'false': 'Раскрыть на весь экран',
+                            'true': 'Выход из полноэкранного режима'
+                        }
+                    }));
+                });
+            </script>
