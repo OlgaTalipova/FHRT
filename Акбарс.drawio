@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T11:37:44.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tLCG8xXJBE3MvRJOf98D" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T11:39:58.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Ffd2kXWH6rJmV78rZ6lb" version="22.0.3" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
     <mxGraphModel dx="1216" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f27edlvPX0rT_J85qjWV-16" value="Матчи" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="754" y="110" width="219.18000000000006" height="2047" as="geometry" />
+          <mxGeometry x="754" y="110" width="106" height="2047" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-17" value="Протокол матча" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-16" vertex="1">
           <mxGeometry x="-211.47" y="1849.54" width="527.31" height="20" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-6.000000000000009" y="2325" width="118.37" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-2" value="Команды" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="f27edlvPX0rT_J85qjWV-16" vertex="1">
-          <mxGeometry x="-137" y="-12.32" width="97" height="1737" as="geometry" />
+          <mxGeometry x="-137" y="0.6799999999999997" width="97" height="1737" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-3" value="Команда" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=north;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-2" vertex="1">
           <mxGeometry x="-236.09" y="1251.38" width="576.18" height="25" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="-495.55" y="685.57" width="1091.11" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-26" value="Персонал" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="209" y="110" width="101" height="1797" as="geometry" />
+          <mxGeometry x="209" y="110" width="101" height="2850" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-27" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Список персон&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-26" vertex="1">
           <mxGeometry x="-37.6" y="127.58" width="174.38" height="25" as="geometry" />
@@ -471,7 +471,7 @@
           <mxGeometry x="1127" y="1977" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-144" value="Спортсмены" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="340" y="110" width="106.37" height="1947" as="geometry" />
+          <mxGeometry x="340" y="110" width="106.37" height="2860" as="geometry" />
         </mxCell>
         <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-1" value="&lt;div style=&quot;direction: ltr;&quot;&gt;Спортсмен&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="292.05" y="1609.95" width="203.68" height="25" as="geometry" />
