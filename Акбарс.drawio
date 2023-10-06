@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T13:38:48.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vRcm3TcfOH6L4WxoGNwq" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T13:41:17.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eB1aC08a-R2CLRRumsqV" version="22.0.3" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
-    <mxGraphModel dx="1216" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-23" value="Справочники" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1152" y="110" width="96" height="1080" as="geometry" />
+          <mxGeometry x="1152" y="110" width="96" height="410" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-24" value="Роль" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-23" vertex="1">
           <mxGeometry x="33.5" y="91" width="35" height="20" as="geometry" />
