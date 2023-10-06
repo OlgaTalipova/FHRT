@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T08:29:28.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uDDWO_PfMOEQM8ZRlkzk" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T08:38:16.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LEkPdGti_vw1IuG1m7mv" version="22.0.3" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
     <mxGraphModel dx="1034" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
           <mxGeometry x="-495.55" y="685.57" width="1091.11" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-26" value="Персонал" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="209" y="110" width="100" height="1797" as="geometry" />
+          <mxGeometry x="209" y="110" width="103.87" height="1797" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-27" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Список персон&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-26" vertex="1">
           <mxGeometry x="-37.6" y="127.58" width="174.38" height="25" as="geometry" />
@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-34" value="Тренер" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-26" vertex="1">
-          <mxGeometry x="-25.86" y="1001.28" width="150.91" height="27.73" as="geometry" />
+          <mxGeometry x="-25.86" y="1030.28" width="150.91" height="27.73" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-37" value="Тренер" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-26" vertex="1">
           <mxGeometry x="11.12" y="1754.12" width="77.77" height="27.73" as="geometry" />
@@ -146,6 +146,21 @@
         <mxCell id="f27edlvPX0rT_J85qjWV-100" value="Добавление,&lt;br&gt;&amp;nbsp;удаление, &lt;br&gt;обновление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f27edlvPX0rT_J85qjWV-99" vertex="1" connectable="0">
           <mxGeometry x="-0.4975" y="1" relative="1" as="geometry">
             <mxPoint x="10" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-23" value="Тренер" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" vertex="1" parent="f27edlvPX0rT_J85qjWV-26">
+          <mxGeometry x="1.06" y="1350.18" width="99.89" height="27.73" as="geometry" />
+        </mxCell>
+        <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-24" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Команда&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" vertex="1" parent="f27edlvPX0rT_J85qjWV-26">
+          <mxGeometry x="38.11" y="1356.11" width="65.76" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f27edlvPX0rT_J85qjWV-117" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="f27edlvPX0rT_J85qjWV-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-179" y="1220" as="sourcePoint" />
+            <mxPoint x="311" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="241" y="1220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.671;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="f27edlvPX0rT_J85qjWV-24" edge="1">
@@ -231,10 +246,10 @@
             <mxPoint x="603.9699999999998" y="1320.0460000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f27edlvPX0rT_J85qjWV-80" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.14;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="f27edlvPX0rT_J85qjWV-80" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.98;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="134.45000000000005" y="1289.9999999999998" as="sourcePoint" />
-            <mxPoint x="616.9950000000001" y="1290.0139800000002" as="targetPoint" />
+            <mxPoint x="271.45000000000005" y="1089.9999999999998" as="sourcePoint" />
+            <mxPoint x="657.0050000000001" y="1088.95559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-81" value="Назначение в команду" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f27edlvPX0rT_J85qjWV-80" vertex="1" connectable="0">
@@ -242,8 +257,13 @@
             <mxPoint x="158" y="155" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-25" value="Приказ о назначении" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f27edlvPX0rT_J85qjWV-80">
+          <mxGeometry x="-0.0219" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-82" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Документы&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="239.09000000000003" y="1090" width="80.2" height="22.5" as="geometry" />
+          <mxGeometry x="239.09000000000003" y="1119" width="80.2" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-83" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -254,6 +274,11 @@
         <mxCell id="f27edlvPX0rT_J85qjWV-84" value="Формирование команд" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f27edlvPX0rT_J85qjWV-83" vertex="1" connectable="0">
           <mxGeometry x="-0.4975" y="1" relative="1" as="geometry">
             <mxPoint x="-73" y="146" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-26" value="Созание, удаление, редактирование" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f27edlvPX0rT_J85qjWV-83">
+          <mxGeometry x="-0.5349" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-87" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.94;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.242;exitY=-0.2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -275,8 +300,8 @@
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-90" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;entryX=0.913;entryY=0.966;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="270" y="1025" as="sourcePoint" />
-            <mxPoint x="721.9949999999999" y="1025.94901" as="targetPoint" />
+            <mxPoint x="187.81" y="1350" as="sourcePoint" />
+            <mxPoint x="639.8049999999998" y="1350.94901" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-91" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.602;exitY=0.064;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="f27edlvPX0rT_J85qjWV-29" edge="1" target="f27edlvPX0rT_J85qjWV-25">
@@ -332,15 +357,12 @@
             <mxPoint x="748.5" y="1349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f27edlvPX0rT_J85qjWV-108" value="Тренер" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="110.83000000000004" y="1561.83" width="295.53" height="27.73" as="geometry" />
-        </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-111" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="268.99999999999955" y="1440" as="sourcePoint" />
-            <mxPoint x="755.54" y="1441" as="targetPoint" />
+            <mxPoint x="268.99999999999955" y="1498" as="sourcePoint" />
+            <mxPoint x="755.54" y="1499" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="665.54" y="1440" />
+              <mxPoint x="665.54" y="1498" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -366,18 +388,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="289" y="1670" as="sourcePoint" />
             <mxPoint x="886" y="1670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f27edlvPX0rT_J85qjWV-116" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Заявка&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="249.41999999999996" y="1674.72" width="58.72" height="22.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f27edlvPX0rT_J85qjWV-117" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="269" y="1047" as="sourcePoint" />
-            <mxPoint x="759" y="1047" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="689" y="1047" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-118" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.01;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -494,10 +504,10 @@
           <mxGeometry x="340" y="110" width="106.37" height="1947" as="geometry" />
         </mxCell>
         <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-1" value="&lt;div style=&quot;direction: ltr;&quot;&gt;Спортсмен&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1118" width="107.77" height="25" as="geometry" />
+          <mxGeometry x="340" y="1147" width="107.77" height="25" as="geometry" />
         </mxCell>
         <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-2" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Документы&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="375.55999999999995" y="1109.88" width="77.88" height="22.5" as="geometry" />
+          <mxGeometry x="375.55999999999995" y="1138.88" width="77.88" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-3" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Список спортсменов школы&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="300.58000000000004" y="429.4000000000001" width="185.21" height="25" as="geometry" />
