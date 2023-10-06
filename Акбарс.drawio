@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T07:58:12.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="o7Rc5YRL6TLXuG1HjAfL" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T08:11:15.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hd_tuXedeaC_8vjexEwC" version="22.0.3" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
     <mxGraphModel dx="1034" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,17 +223,6 @@
         <mxCell id="f27edlvPX0rT_J85qjWV-52" value="Формирование&lt;br&gt;запроса&lt;br&gt;&amp;nbsp;на перевод" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f27edlvPX0rT_J85qjWV-51" vertex="1" connectable="0">
           <mxGeometry x="-0.5719" y="1" relative="1" as="geometry">
             <mxPoint x="39" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f27edlvPX0rT_J85qjWV-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.79;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="71.35142857142822" y="718.6409000000001" as="sourcePoint" />
-            <mxPoint x="385.02499999999964" y="718.6409000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f27edlvPX0rT_J85qjWV-58" value="Добавление, удаление, обновление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f27edlvPX0rT_J85qjWV-57" vertex="1" connectable="0">
-          <mxGeometry x="-0.4741" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.565;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
