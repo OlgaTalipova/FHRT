@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T13:07:54.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="IjaWt9qlJjKkrQETU6HC" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T13:14:28.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lkTxs8YcE95VVz8utJ4u" version="22.0.4" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
     <mxGraphModel dx="1034" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
           <mxGeometry x="10.93" y="1652" width="121.63" height="25.49" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-50" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
-          <mxGeometry x="59" y="829" width="20" height="1361" as="geometry" />
+          <mxGeometry x="59" y="872" width="20" height="1361" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-51" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-140" value="Методист" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="39.5" y="799" width="64" height="32" as="geometry" />
+          <mxGeometry x="39.5" y="844" width="64" height="32" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-141" value="Последовательность&amp;nbsp; действий пользователей в приложении &quot;Паспорт хоккеиста&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="10" width="520" height="30" as="geometry" />
