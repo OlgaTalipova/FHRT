@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T13:06:47.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ew2IpzwKqEpOhH--0lMa" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T13:07:54.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="IjaWt9qlJjKkrQETU6HC" version="22.0.4" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
     <mxGraphModel dx="1034" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgTRukzydeiG_BwK3OPo-34" value="Назначение тренера в команду" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LgTRukzydeiG_BwK3OPo-33">
+        <mxCell id="LgTRukzydeiG_BwK3OPo-34" value="На назначение тренера в команду" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LgTRukzydeiG_BwK3OPo-33">
           <mxGeometry x="-0.3228" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -515,7 +515,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgTRukzydeiG_BwK3OPo-36" value="Зачисление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LgTRukzydeiG_BwK3OPo-35">
+        <mxCell id="LgTRukzydeiG_BwK3OPo-36" value="На зачисление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LgTRukzydeiG_BwK3OPo-35">
           <mxGeometry x="-0.3228" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
