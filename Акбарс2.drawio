@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T08:20:58.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="TdCuAtiPe_Vhfftj6cS5" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T10:28:22.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="akYbmJ-tUHt9JfjzmYxS" version="22.0.4" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
-    <mxGraphModel dx="1034" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,10 +17,10 @@
           <mxGeometry x="1296" y="110" width="104" height="1380" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-24" value="Роль" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-23" vertex="1">
-          <mxGeometry x="33.5" y="204" width="35" height="20" as="geometry" />
+          <mxGeometry x="7.5" y="204" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-25" value="Тип документа" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-23" vertex="1">
-          <mxGeometry x="-516.92" y="810.94" width="1139.65" height="20" as="geometry" />
+          <mxGeometry x="-507.91999999999996" y="810.94" width="1139.65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-26" value="Персонал" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="209" y="110" width="101" height="2690" as="geometry" />
@@ -165,7 +165,7 @@
             <mxPoint x="158" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f27edlvPX0rT_J85qjWV-94" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.851;entryY=-0.069;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.761;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="f27edlvPX0rT_J85qjWV-94" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.851;entryY=-0.069;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" source="f27edlvPX0rT_J85qjWV-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1341.895" y="398.94281" as="sourcePoint" />
             <mxPoint x="312.0024999999998" y="397.00019999999995" as="targetPoint" />
@@ -366,9 +366,9 @@
             <mxPoint x="192.14500000000007" y="2789" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-63" value="Создает тесты, проводит тестирование" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f27edlvPX0rT_J85qjWV-13" vertex="1" connectable="0">
+        <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-63" value="Организует тестирование, вносит&amp;nbsp; результаты в систему" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f27edlvPX0rT_J85qjWV-13" vertex="1" connectable="0">
           <mxGeometry x="-0.7344" relative="1" as="geometry">
-            <mxPoint x="32" as="offset" />
+            <mxPoint x="68" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-61" value="&lt;div style=&quot;direction: ltr;&quot;&gt;Спортсмен&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" parent="1" vertex="1">
@@ -465,9 +465,9 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgTRukzydeiG_BwK3OPo-12" value="Заключает платные договоры" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LgTRukzydeiG_BwK3OPo-11" vertex="1" connectable="0">
+        <mxCell id="LgTRukzydeiG_BwK3OPo-12" value="Заключает договоры" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LgTRukzydeiG_BwK3OPo-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0945" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="31" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LgTRukzydeiG_BwK3OPo-23" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.733;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.994;entryY=-0.123;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tbXqZCxcv9YD3rP0Q4Ke-39" target="LgTRukzydeiG_BwK3OPo-22" edge="1">
@@ -636,9 +636,9 @@
             <mxPoint x="193.14500000000007" y="4433.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgTRukzydeiG_BwK3OPo-74" value="Вносит, осуществляет проверку" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LgTRukzydeiG_BwK3OPo-73" vertex="1" connectable="0">
+        <mxCell id="LgTRukzydeiG_BwK3OPo-74" value="Организует тестирование, вносит результаты в систему" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LgTRukzydeiG_BwK3OPo-73" vertex="1" connectable="0">
           <mxGeometry x="-0.7344" relative="1" as="geometry">
-            <mxPoint x="32" as="offset" />
+            <mxPoint x="71" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LgTRukzydeiG_BwK3OPo-76" value="&lt;div style=&quot;direction: ltr;&quot;&gt;Спортсмен&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" parent="1" vertex="1">
