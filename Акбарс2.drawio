@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T14:09:51.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.2272 YaBrowser/23.9.0.2272 Yowser/2.5 Safari/537.36" etag="1xPqVDV2mnrDgBNx-L_-" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T14:10:52.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.2272 YaBrowser/23.9.0.2272 Yowser/2.5 Safari/537.36" etag="lsnA7im2nfrqPx0vEewB" version="22.0.4" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
     <mxGraphModel dx="1631" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -450,8 +450,8 @@
         <mxCell id="LgTRukzydeiG_BwK3OPo-4" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="59" y="138" width="20" height="322" as="geometry" />
         </mxCell>
-        <mxCell id="LgTRukzydeiG_BwK3OPo-5" value="Администрация" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="55" y="108" width="60" height="30" as="geometry" />
+        <mxCell id="LgTRukzydeiG_BwK3OPo-5" value="&lt;b&gt;Администрация&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="108" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LgTRukzydeiG_BwK3OPo-8" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
