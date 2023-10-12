@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T12:02:33.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2ZT6yL4WnyNtgbgzx7iD" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T12:04:32.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="cetFftHHhor4a0-_fmm2" version="22.0.4" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
-    <mxGraphModel dx="724" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -745,8 +745,8 @@
         <mxCell id="neL7sK7mZOIghdXQ-qVq-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="62" y="3722" width="20" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="neL7sK7mZOIghdXQ-qVq-3" value="Комиссия&lt;br&gt;ТАТНЕФТЬ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="47.5" y="3688.4" width="60" height="30" as="geometry" />
+        <mxCell id="neL7sK7mZOIghdXQ-qVq-3" value="Комиссия&lt;br&gt;ПАО &quot;ТАТНЕФТЬ&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="47.5" y="3682.4" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="neL7sK7mZOIghdXQ-qVq-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.617;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.4;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="neL7sK7mZOIghdXQ-qVq-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
