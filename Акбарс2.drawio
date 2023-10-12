@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T12:01:40.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_dU-6fYtlxm5Vfm42ui0" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T12:02:33.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2ZT6yL4WnyNtgbgzx7iD" version="22.0.4" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
     <mxGraphModel dx="724" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -420,7 +420,7 @@
           <mxGeometry x="-38.23" y="1454.26" width="182.49" height="20" as="geometry" />
         </mxCell>
         <mxCell id="neL7sK7mZOIghdXQ-qVq-1" value="Приказы" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="LgTRukzydeiG_BwK3OPo-1" vertex="1">
-          <mxGeometry x="18.81" y="3708.43" width="66.4" height="20" as="geometry" />
+          <mxGeometry x="9.4" y="3717.84" width="85.21" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-2" value="Команды" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="604" y="80" width="96" height="3400" as="geometry" />
@@ -754,7 +754,7 @@
             <mxPoint x="1177.9949999999994" y="3807.0280399999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="neL7sK7mZOIghdXQ-qVq-5" value="Утверждает приказы на&amp;nbsp; отчисление и переходы спортсменов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="neL7sK7mZOIghdXQ-qVq-4" vertex="1" connectable="0">
+        <mxCell id="neL7sK7mZOIghdXQ-qVq-5" value="Согласует приказы на&amp;nbsp; отчисление и переходы спортсменов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="neL7sK7mZOIghdXQ-qVq-4" vertex="1" connectable="0">
           <mxGeometry x="-0.2545" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
