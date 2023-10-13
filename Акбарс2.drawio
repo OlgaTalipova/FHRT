@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T12:46:31.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="s0a3YL-ABCo-v8cEt69S" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T14:58:21.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="23tEQKYURCEN3fq7ux86" version="22.0.4" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
             <mxPoint x="-144" y="-1725" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-26" value="Созание, редактирование новой команды" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f27edlvPX0rT_J85qjWV-83" vertex="1" connectable="0">
+        <mxCell id="tbXqZCxcv9YD3rP0Q4Ke-26" value="Создание, редактирование новой команды" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f27edlvPX0rT_J85qjWV-83" vertex="1" connectable="0">
           <mxGeometry x="-0.5349" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
