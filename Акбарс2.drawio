@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T15:12:54.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DabyRx8f527MG5hgbmi6" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T12:14:54.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.888 YaBrowser/23.9.2.888 Yowser/2.5 Safari/537.36" etag="fdNCRE12CZ-PI-v-A26P" version="22.0.4" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
-    <mxGraphModel dx="1914" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="hdvwLAnWylqwT9mtSvy4-13" value="тесты, нормативы" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-23" vertex="1">
           <mxGeometry x="-10" y="3121" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f27edlvPX0rT_J85qjWV-16" value="Матчи" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="f27edlvPX0rT_J85qjWV-16" value="Статистика" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="999" y="81" width="114" height="3629" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-17" value="Протокол матча" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="f27edlvPX0rT_J85qjWV-16" vertex="1">
@@ -393,7 +393,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LgTRukzydeiG_BwK3OPo-1" value="Документы" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1136.6" y="80" width="103.4" height="3750" as="geometry" />
+          <mxGeometry x="1136.6" y="80" width="114.31" height="3757.54" as="geometry" />
         </mxCell>
         <mxCell id="LgTRukzydeiG_BwK3OPo-7" value="Приказы" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="LgTRukzydeiG_BwK3OPo-1" vertex="1">
           <mxGeometry x="15.759999999999998" y="134" width="73.74" height="20" as="geometry" />
@@ -420,7 +420,7 @@
           <mxGeometry x="-38.23" y="1454.26" width="182.49" height="20" as="geometry" />
         </mxCell>
         <mxCell id="neL7sK7mZOIghdXQ-qVq-1" value="Приказы" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;rotation=-90;" parent="LgTRukzydeiG_BwK3OPo-1" vertex="1">
-          <mxGeometry x="9.4" y="3717.84" width="85.21" height="20" as="geometry" />
+          <mxGeometry x="-10.3" y="3737.54" width="124.61" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-2" value="Команды" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="604" y="80" width="96" height="3400" as="geometry" />
@@ -748,13 +748,13 @@
         <mxCell id="neL7sK7mZOIghdXQ-qVq-3" value="&lt;b&gt;Спортивный&lt;br&gt;коллегиальный&lt;br&gt;орган&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50.75" y="3671.4" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="neL7sK7mZOIghdXQ-qVq-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.617;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="neL7sK7mZOIghdXQ-qVq-2" target="neL7sK7mZOIghdXQ-qVq-1" edge="1">
+        <mxCell id="neL7sK7mZOIghdXQ-qVq-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.761;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="neL7sK7mZOIghdXQ-qVq-2" target="neL7sK7mZOIghdXQ-qVq-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="3799.1000000000004" as="sourcePoint" />
             <mxPoint x="1177.9949999999994" y="3807.0280399999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="neL7sK7mZOIghdXQ-qVq-5" value="Согласует приказы на&amp;nbsp; отчисление и переходы спортсменов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="neL7sK7mZOIghdXQ-qVq-4" vertex="1" connectable="0">
+        <mxCell id="neL7sK7mZOIghdXQ-qVq-5" value="Согласует приказы на&amp;nbsp; отчисление и переходы спортсменов, отслеживает статус&amp;nbsp; спортсмена после завершения карьеры" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="neL7sK7mZOIghdXQ-qVq-4" vertex="1" connectable="0">
           <mxGeometry x="-0.2545" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -764,6 +764,18 @@
         </mxCell>
         <mxCell id="6xQZYQWZw333NghjTq9I-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="91.5" y="3722.4" width="20" height="77.6" as="geometry" />
+        </mxCell>
+        <mxCell id="YiTxocVAN9KSfCZhEISa-1" value="&lt;div style=&quot;direction: ltr;&quot;&gt;Спортсмен&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="352.39" y="3837.17" width="85.14" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="YiTxocVAN9KSfCZhEISa-2" value="&lt;div style=&quot;direction: ltr;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Статус&lt;/span&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;direction=west;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="390.86" y="3837.57" width="50.52" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YiTxocVAN9KSfCZhEISa-3" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.312;exitY=-0.08;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="neL7sK7mZOIghdXQ-qVq-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1037" y="3849.17" as="sourcePoint" />
+            <mxPoint x="430" y="3849.17" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
