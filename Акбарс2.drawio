@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T11:02:30.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.888 YaBrowser/23.9.2.888 Yowser/2.5 Safari/537.36" etag="964xc5iqaYV2ct6jCsCZ" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T12:12:27.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.888 YaBrowser/23.9.2.888 Yowser/2.5 Safari/537.36" etag="nhgTBYmoyvAY5uPnBpRw" version="22.0.4" type="github">
   <diagram name="Page-1" id="ykxJk71dv9v_vAQylzTN">
     <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
         <mxCell id="f27edlvPX0rT_J85qjWV-140" value="&lt;b&gt;Методист&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="37.5" y="1959" width="64" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="f27edlvPX0rT_J85qjWV-141" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Схема потоков данных в приложении &quot;Паспорт хоккеиста&quot;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="f27edlvPX0rT_J85qjWV-141" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Схема потоков данных в приложении &quot;Цифровой паспорт хоккеиста&quot;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="34" width="750" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f27edlvPX0rT_J85qjWV-144" value="Спортсмены" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
